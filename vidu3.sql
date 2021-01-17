@@ -1,0 +1,1 @@
+CREATE TYPE usertypeFROM var char (20) NOT NULL
